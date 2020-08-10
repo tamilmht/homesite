@@ -1,0 +1,73 @@
+body {
+    /* background-image: url("../images/background.jpg"); */
+    background-image: url("../images/profile.jpg");
+    background-repeat: no-repeat;
+    background-position: -89% 0%;
+    background-color: rgb(236, 234, 233);
+    float: right;
+    margin-left: 2cm;
+    background-attachment: fixed;
+    /* margin-right: 2cm; */
+}
+#profile {
+    /* margin-left: 2cm; */
+    /* margin-right: 2cm;  */
+    margin-top: 1cm; 
+    /* border-radius: 10px;  */
+    /* border: 2px solid black; */
+    height: 140px;
+    
+}
+#basic_details_left {
+    width: 40%;
+    /* height: 100%; */
+    float: left;
+    /* display: inline-block; */
+    padding-left: 10px;
+    padding-top: 10px;
+    line-height: 26px;
+}
+#basic_details_right {
+    padding-left: 10px;
+    padding-top: 10px;
+    line-height: 32px;
+    float: right;
+    /* margin-top: 2px;
+    margin-right: 3px; */
+}
+#img1 {
+    height: 135px;
+}
+#academic{
+    border-radius: 10px;
+    border: 2px solid black;
+    height: 241px;
+    padding-left: 10px;
+}
+#acad{
+    
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 22px;
+    margin-left: 35px;
+    margin-right: 35px;
+    text-align: center;
+}
+#prog{
+    height:100%;
+    background-color:darkgray;
+    border-radius: 10px;
+}
+#tech_skills {
+    border-radius: 10px;
+    border: 2px solid black;
+    height: 238px;
+    padding-left: 10px;
+}
+#personal_info {
+    line-height: 26px;
+    border-radius: 10px;
+    border: 2px solid black;
+    height: 143px;
+    padding-left: 10px;
+}
