@@ -44,7 +44,7 @@ body {
     height: 241px;
     padding-left: 10px;
 }
-#acad{
+.acad{
     
     border: 2px solid black;
     border-radius: 10px;
@@ -53,7 +53,7 @@ body {
     margin-right: 35px;
     text-align: center;
 }
-#prog{
+.prog{
     height:100%;
     background-color:darkgray;
     border-radius: 10px;
